@@ -64,7 +64,7 @@ This allows a balanced evaluation of how well the system detects spam while avoi
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python**
 - **NumPy**
